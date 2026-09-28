@@ -13,7 +13,7 @@
   - 🚀 **Best New Application ($10,000)** (Dual-Process Code-Graph Reasoning for Air-Gapped Consumer Workstations)
 - **Primary Model**: `gemma-4-31b-it-qat-w4a16-ct` (Offline vLLM air-gapped execution)
 - **Word Count**: ~2,400 words (Strictly adhering to < 3,000 words limit)
-- **Open Source Code**: [Public Project Code & Harness Included]
+- **Open Source Repository**: [https://github.com/manojvenaram/GDPR-SWE-Gemma-4-Developer-Agent](https://github.com/manojvenaram/GDPR-SWE-Gemma-4-Developer-Agent)
 
 ---
 
