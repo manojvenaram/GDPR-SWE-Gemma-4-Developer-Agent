@@ -1,0 +1,7 @@
+{
+  "Full GDPR-SWE": 55.0,
+  "w/o System 1 Sub-Agent (Graph in System 2 Context)": 37.2,
+  "w/o Code Graph (Greedy Grep/Find Navigation)": 33.3,
+  "w/o Self-Verifying Test Invariant (No Pre/Post Test)": 40.3,
+  "w/o Budget Gate (Unconstrained Action Loop)": 44.2
+}

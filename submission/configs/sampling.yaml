@@ -1,0 +1,8 @@
+temperature: 0.1
+top_p: 0.95
+top_k: 40
+max_output_tokens: 4096
+stop:
+  - "<|im_end|>"
+  - "<|endoftext|>"
+  - "<end_of_turn>"

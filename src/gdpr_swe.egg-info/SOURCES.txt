@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/cli.py
+src/agent/state_machine.py
+src/gdpr_swe.egg-info/PKG-INFO
+src/gdpr_swe.egg-info/SOURCES.txt
+src/gdpr_swe.egg-info/dependency_links.txt
+src/gdpr_swe.egg-info/entry_points.txt
+src/gdpr_swe.egg-info/requires.txt
+src/gdpr_swe.egg-info/top_level.txt
+src/graph/code_graph.py
+src/harness/mock_swegemma.py
+src/utils/diff_parser.py

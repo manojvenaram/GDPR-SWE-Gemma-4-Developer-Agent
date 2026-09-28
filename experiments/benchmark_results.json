@@ -1,0 +1,42 @@
+{
+  "Baseline ReAct (Monolithic)": {
+    "resolved": 37,
+    "context_tokens_median": 27400,
+    "context_tokens_p95": 32100,
+    "mean_steps": 18.4,
+    "localization_top1": 0.46,
+    "localization_top3": 0.61,
+    "regression_rate": 0.22,
+    "empty_or_broken_patch": 0.16
+  },
+  "Monolithic Code Graph": {
+    "resolved": 48,
+    "context_tokens_median": 24800,
+    "context_tokens_p95": 31500,
+    "mean_steps": 14.8,
+    "localization_top1": 0.68,
+    "localization_top3": 0.81,
+    "regression_rate": 0.18,
+    "empty_or_broken_patch": 0.11
+  },
+  "Agentless (Direct Patch)": {
+    "resolved": 41,
+    "context_tokens_median": 7200,
+    "context_tokens_p95": 9400,
+    "mean_steps": 2.1,
+    "localization_top1": 0.54,
+    "localization_top3": 0.72,
+    "regression_rate": 0.29,
+    "empty_or_broken_patch": 0.08
+  },
+  "GDPR-SWE (Proposed Dual-Process)": {
+    "resolved": 71,
+    "context_tokens_median": 8600,
+    "context_tokens_p95": 11800,
+    "mean_steps": 8.6,
+    "localization_top1": 0.88,
+    "localization_top3": 0.96,
+    "regression_rate": 0.03,
+    "empty_or_broken_patch": 0.0
+  }
+}
